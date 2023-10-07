@@ -1,0 +1,59 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #7cfc00;
+}
+#Projects {
+  background-color: #7cfc00;
+}
+
+footer {
+  background-color: #7cfc00;
+  padding: 70px 0 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.footer-container h3 {
+  text-align: center;
+  color: black;
+  text-transform: capitalize;
+  padding-bottom: 50px;
+}
+.symbol {
+  display: flex;
+  justify-content: center;
+}
+.symbol a {
+  text-decoration: none;
+  padding: 10px;
+  padding-bottom: 50px;
+  margin: 3px;
+}
+.symbol a i {
+  color: black;
+  font-size: 1.4rem;
+  transition: color 0.4 ease;
+}
+.symbol a:hover i {
+  color: white;
+}
+.bottom {
+  background-color: #198754;
+  padding: 20px 0;
+  text-align: center;
+}
+.bottom p {
+  color: white;
+  font-size: 14px;
+  word-spacing: 2px;
+}
+.bottom span {
+  text-transform: uppercase;
+  opacity: 0.4;
+  font-weight: 400;
+}
+.bottom a {
+  color: purple;
+}
+section {
+  padding-top: 5rem;
+}
